@@ -28,5 +28,5 @@ To run this project, you only need Python installed on your system. Tkinter come
 
 1. **Clone or download this repository** to your local machine:
    ```bash
-   git clone [https://github.com/your-username/scientific-calculator.git](https://github.com/your-username/scientific-calculator.git)
+   git clone [https://github.com/RogueMindTech/scientific-calculator.git](https://github.com/RogueMindTech/scientific-calculator.git)
    cd scientific-calculator
